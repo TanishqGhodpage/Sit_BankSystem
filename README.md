@@ -37,7 +37,7 @@ banking-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/banking-system.git
+git clone https://github.com/TanishqGhodpage/banking-system.git
 cd banking-system
 ```
 
